@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Darshil Parmar
+# YouTube Data Engineering Pipeline and Analysis Project
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 3. Data lake — We will be getting data from multiple sources so we need centralized repo to store them
 4. Scalability — As the size of our data increases, we need to make sure our system scales with it
 5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
-6. Reporting — Build a dashboard to get answers to the question we asked earlier
+6. Reporting — Build a dashboard to answer relevant questions related to performance metrics
 
 ## Services we will be using
 1. Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
@@ -28,7 +28,4 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
 
-https://youtu.be/yZKJFKu49Dk
